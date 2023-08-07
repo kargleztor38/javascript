@@ -26,7 +26,7 @@ function convertidorDeTemperatura() {
 
         } else if ( opciones === "3" ) {
 
-            alert ( "Gracias por usar nuestro algoritmo. A dios !" );
+            alert ( "Gracias por usar nuestro algoritmo. Adios !" );
             break;
 
         } else {
